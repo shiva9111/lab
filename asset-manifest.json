@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shiva9111/lab.git/static/css/main.b767e866.css",
+    "main.js": "/shiva9111/lab.git/static/js/main.4678d497.js",
+    "static/js/453.8ab44547.chunk.js": "/shiva9111/lab.git/static/js/453.8ab44547.chunk.js",
+    "index.html": "/shiva9111/lab.git/index.html",
+    "main.b767e866.css.map": "/shiva9111/lab.git/static/css/main.b767e866.css.map",
+    "main.4678d497.js.map": "/shiva9111/lab.git/static/js/main.4678d497.js.map",
+    "453.8ab44547.chunk.js.map": "/shiva9111/lab.git/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b767e866.css",
+    "static/js/main.4678d497.js"
+  ]
+}
